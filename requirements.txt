@@ -1,0 +1,3 @@
+# AWS SDK (pre-installed on lambda!)
+boto3
+boto

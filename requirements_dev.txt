@@ -1,0 +1,9 @@
+coverage
+httpretty
+mock
+nose
+nose-clean-env
+nose-exclude
+rednose
+
+-r requirements.txt
